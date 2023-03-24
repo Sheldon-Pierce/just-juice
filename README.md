@@ -85,15 +85,3 @@ We will assign the project on whiteboard, and write down names next to different
 What project management tool will be used?
 
 We will use Whiteboard.
-
-## Presentation Deck
-
-Make a single copy of the Presentation Deck Template. Share your copy will all team members, so everyone is working from the same file.
-
-Link to the shared doc in your project plan.
-
-https://docs.google.com/presentation/d/1fNTQ1nT9NMpTxvpBscMFDYJCVHRRF6EW-xDwLMMmbIE/edit#slide=id.g2accd1c413_3_31
-
-## Git Process
-
-All of our project will exist on GitHub. The tree of us will all work as collaborators on the project. We will work together to merge PRs and we will merge after each request comes through. We will communicate in remo and slack to update eachother on new PRs and merges.
