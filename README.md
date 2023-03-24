@@ -1,6 +1,8 @@
 # Just Juice
 
-### Project By: Darran Holmes, Sheldon Pierce & Rhett Beardemphl
+App - https://sheldon-pierce.github.io/just-juice/
+
+### Project By: Sheldon Pierce, Rhett Beardemphl, Darran Holmes
 
 ## Problem Domain 
 
